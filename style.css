@@ -121,8 +121,8 @@ svg { display: block; }
 }
 .badge-dot { width: 6px; height: 6px; border-radius: 999px; background: #C89A4B; }
 .hero-text h1 {
-  font-size: 44px;
-  line-height: 1.14;
+  font-size: 58px;
+  line-height: 1.1;
   color: #FAF8F4;
   font-weight: 500;
 }
@@ -175,9 +175,9 @@ svg { display: block; }
   margin: 0 auto;
   padding: 28px 32px;
   display: flex;
-  gap: 40px;
+  gap: 64px;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 .trust-num { font-family: 'Fraunces', serif; font-size: 22px; font-weight: 600; color: #1B2440; }
 .trust-label { font-size: 13px; color: #7B8194; }
