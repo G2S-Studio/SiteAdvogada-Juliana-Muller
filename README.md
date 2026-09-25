@@ -1,15 +1,18 @@
-# Site — Advocacia Juliana Müller | Direito Previdenciário
+# Advocacia Juliana Müller
 
-Site institucional desenvolvido para o escritório da Dra. Juliana Müller, advogada especializada em Direito Previdenciário em Itatiba/SP.
+Landing page da Dra. Juliana Müller, especialista em Direito Previdenciário, atendendo em Itatiba/SP.
 
-🔗 **Site publicado:** https://g2s-studio.github.io/SiteAdvogada-Juliana-Muller/
+## 🔗 Acesse o site
 
-## Sobre o projeto
+https://g2s-studio.github.io/SiteAdvogada-Juliana-Muller/
 
-Landing page em HTML, CSS e JavaScript puro — sem frameworks. Desenvolvido pela **G2S Studio**.
+---
 
-## Estrutura
+Projeto estático (HTML + CSS + JS), sem dependências ou frameworks. Feito por **G2S Studio**.
 
-- `index.html` — estrutura da página
-- `style.css` — estilos e paleta de cores
-- `script.js` — pequenas interações (menu, ano do rodapé)
+**Arquivos:**
+| Arquivo | Função |
+|---|---|
+| `index.html` | conteúdo e estrutura da página |
+| `style.css` | visual e paleta de cores |
+| `script.js` | interações leves (menu, rodapé) |
